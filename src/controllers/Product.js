@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+@qconst mongoose = require('mongoose');
 
 const productSchema = new mongoose.Schema(
   {
